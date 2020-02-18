@@ -15,4 +15,9 @@ if Q2 =='y':
     print('nickel')
 elif Q2 == 'n':
     print('dommage')
+Q3 = input('is pierre a beast?')
+if Q3 == 'y':
+    print('false')
+elif Q3 == 'n':
+    print('True')
 
