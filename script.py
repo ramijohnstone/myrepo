@@ -33,4 +33,16 @@ else:
     print("Je suis d'accord avec toi il est bien con")
 
 
+print("Gaétan à écrit ce message")
+
+print('wesh la street')
+
+
+age = int(input("t'a quel age bg ? : "))
+if age >= 18:
+    print("majeur ?! chauuud !!")
+elif age <= 18:
+    print("wsh ofzdkebngfokjne mineur ? azy la whonte !!")
+else:
+    print("t'es chelou toi !!")
 
