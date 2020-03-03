@@ -7,7 +7,7 @@ print("bye")
 print("hello again")
 
 
-Q1 = input('es-tu majeur?')
+Q1 = input('es-tu majeur? ')
 
 if Q1 =='yes':
     print('tu peux entré')
@@ -22,7 +22,7 @@ Q3 = input('is pierre a beast?')
 if Q3 == 'yes':
     print('false')
 elif Q3 != 'yes':
-    print('True')
+   print('True')
 
 
 
