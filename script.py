@@ -32,5 +32,6 @@ if manu <= 5:
 else:
     print("Je suis d'accord avec toi il est bien con")
 
+print('wesh la street')
 
 
