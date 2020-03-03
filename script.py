@@ -25,3 +25,12 @@ elif Q3 != 'yes':
     print('True')
 
 
+
+manu = int(input("Sur une échelle de 1 à 10 à quel point trouve tu manu con ?"))
+if manu <= 5:
+    print("Il est quand même un peu plus con que ça")
+else:
+    print("Je suis d'accord avec toi il est bien con")
+
+
+
