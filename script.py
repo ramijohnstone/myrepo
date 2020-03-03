@@ -34,3 +34,10 @@ else:
 
 
 
+age = int(input("t'a quel age bg ? : "))
+if manu >= 18:
+    print("majeur ?! chauuud !!")
+elif manu <= 18:
+    print("wsh ofzdkebngfokjne mineur ? azy la whonte !!")
+else:
+    print("t'es chelou toi !!")
